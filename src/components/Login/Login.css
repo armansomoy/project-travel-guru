@@ -1,0 +1,53 @@
+.main{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.login-form{
+    padding: 50px;
+    border: solid 1px #000;
+}
+
+.login-form h4{
+    padding-bottom: 25px;
+}
+.login-form p{
+    padding-top: 25px;
+    text-align: center;
+}
+
+
+#formBasicEmail{
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 1px solid gray;
+    border-radius: 0px ;
+}
+
+#formBasicPassword{
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 1px solid gray;
+    border-radius: 0px ;
+}
+
+.facebook-login{
+    margin-top: 25px;
+    border-radius: 50px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.google-login{
+    margin-top: 10px;
+    border-radius: 50px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
